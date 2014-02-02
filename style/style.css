@@ -1,0 +1,56 @@
+.main{
+	border: 4px solid #7E8277;
+	width: 300px;
+	background-color: #34302D;
+	margin: 10px;
+	padding: 0px 10px;
+}
+#titleArea{
+	font-size: 30px;
+	font-family: 'Source Sans Pro', sans-serif;
+	letter-spacing: 2px;
+	text-align: center;
+	color: #fff;
+	margin-bottom: 5px;
+}
+#listArea{
+	margin-bottom: 20px;
+}
+.sortable li{
+	font-family: 'Source Sans Pro', sans-serif;
+	text-align: center;
+	line-height: 30px;
+	margin-bottom: 5px;
+	border:solid 2px white;
+	background-color: #EDEAE3;
+	width: 100%;
+	height: 30px;
+}
+#textBar{
+	width: 100%;
+	height: 30px;
+	font-size: 24px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+#optionsArea{
+	border-radius: 5px;
+	padding: 5px;
+	background-color: #EDEAE3;
+	text-align: center;
+	margin: 10px 0px;
+}
+#optionsArea button{
+	margin: 0px 10px;
+	border: 0;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 22px;
+	width: 40%;
+	height: 50px;
+	border-radius: 3px;
+}
+#saveBtn{
+	background-color: #86C543;
+}
+#clearBtn{
+	background-color: #DE1B1B;
+}
